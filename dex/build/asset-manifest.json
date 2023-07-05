@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.358cd942.css",
+    "main.js": "/static/js/main.c63d0077.js",
+    "static/media/y2dee-logo.svg": "/static/media/y2dee-logo.e569fe68baebf00eeb7637fa5b8826e6.svg",
+    "index.html": "/index.html",
+    "static/media/eth.svg": "/static/media/eth.a15e47d6c1a6eed5f867e6a7e833af53.svg",
+    "main.358cd942.css.map": "/static/css/main.358cd942.css.map",
+    "main.c63d0077.js.map": "/static/js/main.c63d0077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358cd942.css",
+    "static/js/main.c63d0077.js"
+  ]
+}
