@@ -30,7 +30,7 @@ To Visit App:
 
 Step 1: Connect Wallet  | I recommend Metamask but other alternatives works too
 
-![Alt text](/relative/path/to/y2d1.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/Screenshots/y2d1.png?raw=true "Optional Title")
 
 
 
