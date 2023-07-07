@@ -30,7 +30,7 @@ To Visit App:
 
 Step 1: Connect Wallet  | I recommend Metamask but other alternatives works too
 
-![Alt text](/relative/path/to/Screenshots/y2d1.png?raw=true "Optional Title")
+![Alt text](https://github.com/y2danny/DexApp/blob/5f27a2379e9bcb9eb1bf7c2475ab84546d317213/Screenshots/y2d1.png)
 
 
 
