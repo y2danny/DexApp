@@ -26,6 +26,8 @@ To Visit App:
 
 [Y2Dee Dex](https://dextokenapplication.netlify.app/) 
 
+### NOTE : Incase the app only reflects the token prices slider after navigating from the Tokens page, simply refresh the app! this might happen due to trading view api causing a break in react applications
+
 ### Onboarding
 
 Step 1: Connect Wallet  | I recommend Metamask but other alternatives works too.
