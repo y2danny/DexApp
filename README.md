@@ -26,10 +26,4 @@ To Visit App:
 
 [Link here](https://dextokenapplication.netlify.app/) 
 
-#### Get Started:
 
-Onboarding:
-
-`Connect Wallet`  | We recommned Metamask but any other great alternatives works too
-
-![Alt text](https://drive.google.com/file/d/1_W5Nb-eiPmsqVT6xou8dgOSNrJLFQc25/view?usp=drive_link "Optional title")
