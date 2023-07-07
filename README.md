@@ -24,7 +24,7 @@ To Start Server:
 
 To Visit App:
 
-[Link here](https://dextokenapplication.netlify.app/) 
+[Y2Dee Dex](https://dextokenapplication.netlify.app/) 
 
 ### Onboarding
 
