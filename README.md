@@ -26,4 +26,12 @@ To Visit App:
 
 [Link here](https://dextokenapplication.netlify.app/) 
 
+### Onboarding
+
+Step 1: Connect Wallet  | I recommend Metamask but other alternatives works too
+
+![Alt text](/relative/path/to/y2d1.png?raw=true "Optional Title")
+
+
+
 
